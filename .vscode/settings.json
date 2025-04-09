@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true,
+                    "passphrase": "ajeIkQ7Kk0S3hjVGhIABal2eHMWYtxBJ"
+                }
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "CSE 340 Fall 2024 Block One",
+            "connectString": "postgresql://cse340:ajeIkQ7Kk0S3hjVGhIABal2eHMWYtxBJ@dpg-crpcumo8fa8c73e06n8g-a.oregon-postgres.render.com/cse340_3gmb"
+        }
+    ]
+}
